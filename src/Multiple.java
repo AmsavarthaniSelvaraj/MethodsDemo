@@ -10,8 +10,9 @@
 
     public static void main(String[] args) {
       Computer l1=new Computer();
-        System.out.println(l1.name);
+      System.out.println(l1.name);
       Bike b1=new Bike();
-        System.out.println(b1.price);
+      System.out.println(b1.price);
+
     }
 }
