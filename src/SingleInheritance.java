@@ -14,9 +14,8 @@ public class SingleInheritance {
     public static void main(String[] args) {
         Human obj1=new Human();
         obj1.H1();
-        obj1.A1();
-    }
-}*/
+        obj1.A1();*/
+
 
 //Multilevel inheritance
 class Animal{
