@@ -1,5 +1,7 @@
 public class Constructor {
-    int marks;
+   /* int marks=56;
+    String name="E";*/
+   int marks;
     String name;
 
     Constructor(){
@@ -8,10 +10,10 @@ public class Constructor {
 
     public static void main(String[] args) {
         Constructor obj1=new Constructor();
-        Constructor onb2=new Constructor();
+        Constructor obj2=new Constructor();
 
         System.out.println(obj1.marks);
-        System.out.println(obj1.marks);
+        System.out.println(obj1.name);
 
     }
 
